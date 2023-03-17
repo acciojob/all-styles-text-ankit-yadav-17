@@ -3,7 +3,7 @@
 .main{
 	width:200px;
 	background-color:rgb(128,0,128);
-	border-left-width:5px;
+	borderwidth:0px 0px 0px 5px;
 	border-left-color:rgb(0,128,0);
 	padding:10px;
 }
